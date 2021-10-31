@@ -8,4 +8,7 @@ Metodo di pagamento tramite PayPal inserito.
 
 E' possibile testare l'applicazione scegliendo un qualsiasi prodotto dal Negozio, inserendolo nel carrello, 
 acquistandolo e poi concludendo l'ordine nella tipica modalità Sandbox fornita da PayPal
+E' possibile testare l'ecommerce al seguente link:
+
+http://valentinaweb.altervista.org/
 
