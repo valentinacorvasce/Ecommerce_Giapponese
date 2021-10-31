@@ -2,7 +2,7 @@
 
 Ecommerce di oggettistica e abbigliamento Giapponese realizzato interamente in codice procedurale PHP. 
 Template realizzato con Bootstrap 4.
-Munito di database mySQL ed un gestionale per l'inserimento di nuovi articoli/ordini, la modifica e la cancellazione degli stessi (operazioni CRUD). 
+Munito di database mySQL, blog ed un gestionale per l'inserimento di nuovi articoli/ordini, la modifica e la cancellazione degli stessi (operazioni CRUD). 
 Il gestionale è munito di un accesso sicuro tramite Login. 
 Metodo di pagamento tramite PayPal inserito.
 
