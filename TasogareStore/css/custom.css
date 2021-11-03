@@ -644,6 +644,12 @@ p {
   width: 70%;
 }
 
+@media (max-width: 992px) {
+  .contact-form {
+    width: 100%;
+ } 
+}
+
 .contact-image {
   text-align: center;
 }
